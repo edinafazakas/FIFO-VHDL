@@ -1,0 +1,29 @@
+Vivado Simulator 2016.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2016.4/bin/unwrapped/win64.o/xelab.exe -wto e7813938c25541d38691f065e85285a4 --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L secureip --snapshot fifo_func_impl xil_defaultlib.fifo xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module unisims_ver.BUFG
+Compiling module unisims_ver.IBUF
+Compiling module unisims_ver.OBUF
+Compiling module unisims_ver.MUXF7
+Compiling module unisims_ver.LUT6
+Compiling module unisims_ver.latchsre_ldce
+Compiling module unisims_ver.LDCE
+Compiling module unisims_ver.LUT4
+Compiling module unisims_ver.x_lut1_mux2
+Compiling module unisims_ver.LUT1
+Compiling module unisims_ver.x_lut2_mux4
+Compiling module unisims_ver.LUT2
+Compiling module unisims_ver.x_lut3_mux4
+Compiling module unisims_ver.x_lut3_mux4_reduced_0
+Compiling module unisims_ver.LUT3
+Compiling module unisims_ver.ffsrce_fdce
+Compiling module unisims_ver.FDCE
+Compiling module xil_defaultlib.fifo
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot fifo_func_impl
